@@ -1,0 +1,48 @@
+header{
+    width: 36rem;
+    height: 8.9rem;
+}
+section p{
+    font-size: 1.3rem;
+    color: #333333;
+}
+section p span{
+    display: inline-block;
+    margin-right: 1rem;
+    width: 0.65rem;
+    height: 1.8rem;
+    vertical-align: middle;
+    background-color: #f88b00;
+}
+section ul{
+    padding: 1.25rem 2.5rem 0;
+}
+section ul li{
+    float: left;
+    text-align: center;
+}
+section ul li:nth-child(2),section ul li:nth-child(5),section ul li:nth-child(8){
+    margin: 0 0.8rem;
+}
+section ul li span{
+    box-sizing: border-box;
+    display: block;
+    padding: 0.9rem 0;
+    width: 9.8rem;
+    height: 5.25rem;
+    font-size: 1.1rem;
+    line-height: 1.6rem;
+    color: #333333;
+    border: 0.05rem solid #f88b00;
+    border-radius: 0.5rem;
+}
+section ul li i{
+    font-style: normal;
+    font-size: 1.3rem;
+    line-height: 2.5rem;
+    color: #ff0000;
+}
+footer{
+    width: 36rem;
+    height: 4.4rem;
+}
